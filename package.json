@@ -1,6 +1,6 @@
 {
   "name": "self-grunt-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "lib/index.js",
   "repository": "https://github.com/itbainianmei/self-grunt-cli.git",
   "author": "张英美 <1935686874@qq.com>",
